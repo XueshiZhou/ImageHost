@@ -1,2 +1,2 @@
 # ImageHost
-自用GitHub图床
+自用图床
